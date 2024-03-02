@@ -1,7 +1,18 @@
 {
     "name": "graham-campbell/throttle",
     "description": "Throttle Is A Rate Limiter For Laravel",
-    "keywords": ["laravel", "framework", "rate limit", "throttle", "throttling", "Throttle", "Laravel Throttle", "Laravel-Throttle", "Graham Campbell", "GrahamCampbell"],
+    "keywords": [
+        "laravel",
+        "framework",
+        "rate limit",
+        "throttle",
+        "throttling",
+        "Throttle",
+        "Laravel Throttle",
+        "Laravel-Throttle",
+        "Graham Campbell",
+        "GrahamCampbell"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -12,10 +23,10 @@
     ],
     "require": {
         "php": "^7.4.15 || ^8.0.2",
-        "illuminate/cache": "^8.75 || ^9.0 || ^10.0",
-        "illuminate/contracts": "^8.75 || ^9.0 || ^10.0",
-        "illuminate/http": "^8.75 || ^9.0 || ^10.0",
-        "illuminate/support": "^8.75 || ^9.0 || ^10.0"
+        "illuminate/cache": "^8.75 || ^9.0 || ^10.0 || ^11.0",
+        "illuminate/contracts": "^8.75 || ^9.0 || ^10.0 || ^11.0",
+        "illuminate/http": "^8.75 || ^9.0 || ^10.0 || ^11.0",
+        "illuminate/support": "^8.75 || ^9.0 || ^10.0 || ^11.0"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^4.1",
